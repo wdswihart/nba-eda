@@ -1,4 +1,4 @@
-# nba-eda Development Guide
+# NBA EDA Development Guide
 
 This is a getting-started guide for developing this project.
 
