@@ -1,5 +1,23 @@
 # NBA EDA
 
+This project contains a Jupyter Notebook that utilizes Python to perform
+exploratory data analysis (EDA) on data from the National Basketball Association
+(NBA).
+
+## Goals
+
+- Gain a deeper understanding of data analysis
+- Increase familiarity with data science tools including:
+    - Jupyter Notebook
+    - NumPy
+    - scikit-learn
+    - matplotlib
+    - pandas
+
+## Contributing
+
+A guide to contributing should have been distributed with this software. Look for `/CONTRIBUTING.md`.
+
 ## License
 
 Copyright (C) 2017  William Swihart, Brent Phillips, Eric ?

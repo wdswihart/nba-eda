@@ -4,7 +4,8 @@ This is a getting-started guide for developing this project.
 
 ## Contents
 
-- Dependencies
+1. Dependencies
+2. Getting Started
 
 ## Dependencies
 
@@ -27,7 +28,7 @@ science platform.
 
 [Anaconda download page](https://www.anaconda.com/download/#linux)
 
-## Developing
+## Getting Started
 
 Basic Git commands for our project:
 
