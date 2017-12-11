@@ -18,15 +18,15 @@ programmers to develop concurrently and coordinate the changes that they make.
 
 ### Jupyter Notebook
 
-Jupyter Notebook is an open-source web application that allows the creation of rich 
-documents that contain both source code and its documentation.
+Jupyter Notebook is an open-source web application that allows the creation of 
+rich documents that contain both source code and its documentation.
 
-[Try Jupyter Notebook](https://try.jupyter.org/)
+It is included with an installation of **Anaconda**, a Python data science
+platform.
 
-Jupyter Notebook is included in an installation of **Anaconda**, a Python data 
-science platform.
+- [Try Jupyter Notebook](https://try.jupyter.org/)
+- [Anaconda download page](https://www.anaconda.com/download/)
 
-[Anaconda download page](https://www.anaconda.com/download/#linux)
 
 ## Getting Started
 
