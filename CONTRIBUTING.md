@@ -1,6 +1,6 @@
-# NBA EDA Development Guide
+# NBA EDA Contribution Guide
 
-This is a getting-started guide for developing this project.
+This is a getting-started guide for developing on this project.
 
 ## Contents
 
