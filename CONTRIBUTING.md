@@ -1,6 +1,6 @@
-# nba-eda Development Guide
+# NBA EDA Contribution Guide
 
-This is a getting-started guide for developing this project.
+This is a getting-started guide for developing on this project.
 
 ## Contents
 
@@ -14,19 +14,18 @@ This is a getting-started guide for developing this project.
 Git is an open-source, distributed version control system that allows
 programmers to develop concurrently and coordinate the changes that they make.
 
-[Try Git](https://try.github.io/levels/1/challenges/1)
+- [Try Git](https://try.github.io/levels/1/challenges/1)
 
 ### Jupyter Notebook
 
-Jupyter Notebook is an open-source web application that allows the creation of rich 
-documents that contain both source code and its documentation.
+Jupyter Notebook is an open-source web application that allows the creation of 
+rich documents that contain both source code and its documentation.
 
-[Try Jupyter Notebook](https://try.jupyter.org/)
+It is included with an installation of **Anaconda**, a Python data science
+platform.
 
-Jupyter Notebook is included in an installation of **Anaconda**, a Python data 
-science platform.
-
-[Anaconda download page](https://www.anaconda.com/download/#linux)
+- [Try Jupyter Notebook](https://try.jupyter.org/)
+- [Anaconda download page](https://www.anaconda.com/download/)
 
 ## Getting Started
 

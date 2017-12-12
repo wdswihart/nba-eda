@@ -7,7 +7,7 @@ exploratory data analysis (EDA) on data from the National Basketball Association
 ## Goals
 
 - Gain a deeper understanding of data analysis
-- Increase familiarity with data science tools including:
+- Increase familiarity with popular data science tools including:
     - Jupyter Notebook
     - NumPy
     - scikit-learn
@@ -16,7 +16,8 @@ exploratory data analysis (EDA) on data from the National Basketball Association
 
 ## Contributing
 
-A guide to contributing should have been distributed with this software. Look for `/CONTRIBUTING.md`.
+A guide to contributing should have been distributed with this software. Look 
+for `/CONTRIBUTING.md`.
 
 ## License
 
