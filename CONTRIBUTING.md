@@ -14,7 +14,7 @@ This is a getting-started guide for developing on this project.
 Git is an open-source, distributed version control system that allows
 programmers to develop concurrently and coordinate the changes that they make.
 
-[Try Git](https://try.github.io/levels/1/challenges/1)
+- [Try Git](https://try.github.io/levels/1/challenges/1)
 
 ### Jupyter Notebook
 
@@ -26,7 +26,6 @@ platform.
 
 - [Try Jupyter Notebook](https://try.jupyter.org/)
 - [Anaconda download page](https://www.anaconda.com/download/)
-
 
 ## Getting Started
 
