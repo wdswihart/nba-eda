@@ -21,7 +21,7 @@ for `/CONTRIBUTING.md`.
 
 ## License
 
-Copyright (C) 2017  William Swihart, Brent Phillips, Eric ?
+Copyright (C) 2017  William Swihart, Nick Phillips
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
